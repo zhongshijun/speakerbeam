@@ -1,3 +1,5 @@
+2023/01/10
+
 # SpeakerBeam for neural target speech extraction
 
 This repository contains an implementation of SpeakerBeam method for target speech extraction, made public during Interspeech 2021 tutorial.
